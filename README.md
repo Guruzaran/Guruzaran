@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=Hey%20I'm%20Gurusaran%20👋&fontSize=35&fontColor=ffffff" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer+%7C+AI+Builder;Next.js+%7C+TypeScript+%7C+FAISS+%7C+RAG;Let's+build+the+future+together!" alt="Typing SVG" />
-</p>
+<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" alt="Custom Banner" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guruzaran&style=flat-square&color=blue" alt="Profile views" />
