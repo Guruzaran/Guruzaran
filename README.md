@@ -18,7 +18,7 @@
 
 </td>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/guruzaran/guruzaran/main/assets/cool-coding.gif" width="300" alt="Coding with Confidence" />
+      <img src="https://raw.githubusercontent.com/guruzaran/guruzaran/main/assets/profileGif.gif" width="300" alt="Coding with Confidence" />
     </td>
   </tr>
 </table>
