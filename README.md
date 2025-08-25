@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Welcome Banner" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="70%" alt="Welcome Banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer+%7C+AI+Builder;Next.js+%7C+TypeScript+%7C+FAISS+%7C+RAG;Let's+build+the+future+together!" alt="Typing SVG" />
@@ -12,14 +12,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gurusaranvr&theme=onedark&title=Stars,Followers,Commits,Repositories,PullRequest,Issues&margin-w=10&no-frame=true" alt="Trophies" />
 </p>
 
-# 👋 Hey, I'm Gurusaran V R (Guru)
+# 👋 Hey, I'm Guru
 
-**Full-Stack Hustler | Next.js | RAG | Building with Brains & Bytes**
+Building cool stuff with code
 
 🎓 Master’s in Computer Science @ Binghamton University
+🤝 Open to collaborating on interesting web projects
 💻 Full-Stack & AI/ML Developer | Product Builder | Start-up Mindset
-🚀 Currently building: Easy Subscriptions, AI Code Explainer, StudyMateLM
-📫 Reach me: [Portfolio](https://gurusaranvr.vercel.app) • [LinkedIn](https://linkedin.com/in/gurusaranvr) • [LeetCode](https://leetcode.com/yourhandle)
+🚀 Need help? Happy to discuss anything programming-related
+💡 Love solving problems with efficient and scalable solutions
+📫 Reach me: [Portfolio](https://gurusaranvr.vercel.app) • [LinkedIn](https://linkedin.com/in/gurusaranvr) • [Gmail](guruzaran@gmail.com)
 
 ---
 
