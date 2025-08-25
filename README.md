@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gurusaranvr&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=guruzaran&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gurusaranvr&theme=onedark&title=Stars,Followers,Commits,Repositories,PullRequest,Issues&margin-w=10&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=guruzaran&theme=onedark&title=Stars,Followers,Commits,Repositories,PullRequest,Issues&margin-w=10&no-frame=true" alt="Trophies" />
 </p>
 
 ---
@@ -54,18 +54,18 @@
 
 ## 🔥 Featured Projects
 
-* 🔗 [Easy-Subscriptions](https://github.com/gurusaranvr/easy-subscriptions) — Stripe + Calendly-based subscription management system for services.
-* 🤖 [AI Code Explainer](https://github.com/gurusaranvr/ai-code-explainer) — RAG + FAISS + Ollama to explain code snippets with real documentation and community insights.
-* 📚 [StudyMateLM](https://github.com/gurusaranvr/studymateLM) — NotebookLM-style PDF & notes assistant using LangChain and Streamlit.
-* 💼 [Portfolio Site (GurusaranVR)](https://github.com/gurusaranvr/gurusaranvr) — Sleek Next.js + Tailwind personal site with modern animations and custom UI components.
+* 🔗 [Easy-Subscriptions](https://github.com/guruzaran/easy-subscriptions) — Stripe + Calendly-based subscription management system for services.
+* 🤖 [AI Code Explainer](https://github.com/guruzaran/ai-code-explainer) — RAG + FAISS + Ollama to explain code snippets with real documentation and community insights.
+* 📚 [StudyMateLM](https://github.com/guruzaran/studymateLM) — NotebookLM-style PDF & notes assistant using LangChain and Streamlit.
+* 💼 [Portfolio Site (guruzaran)](https://github.com/guruzaran/gurusaranvr) — Sleek Next.js + Tailwind personal site with modern animations and custom UI components.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurusaranvr&show_icons=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusaranvr&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guruzaran&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruzaran&layout=compact&theme=react" />
 </p>
 
 ---
