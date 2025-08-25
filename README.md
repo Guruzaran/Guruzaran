@@ -1,4 +1,4 @@
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" alt="Custom Banner" />
+<img src="https://raw.githubusercontent.com/guruzaran/guruzaran/main/profilebanner.png" width="100%" alt="Tech Stack Banner" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guruzaran&style=flat-square&color=blue" alt="Profile views" />
