@@ -5,9 +5,11 @@
   <tr>
     <td>
 
-<h1>👋 Hey, I'm Gurusaran</h1>
+<p align="center">
+  <h1> Hey, I'm Guru 👋</h1>
+</p>
 
-**Full-Stack Hustler \| Next.js \| RAG \| Building with Brains & Bytes**
+**Shipping ideas in clean code**
 
 - 🎓 Master’s in Computer Science @ Binghamton University  
 - 🤝 Open to collaborating on interesting web projects  
