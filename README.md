@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="70%" alt="Welcome Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=Hey%20I'm%20Gurusaran%20👋&fontSize=35&fontColor=ffffff" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer+%7C+AI+Builder;Next.js+%7C+TypeScript+%7C+FAISS+%7C+RAG;Let's+build+the+future+together!" alt="Typing SVG" />
@@ -12,16 +12,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gurusaranvr&theme=onedark&title=Stars,Followers,Commits,Repositories,PullRequest,Issues&margin-w=10&no-frame=true" alt="Trophies" />
 </p>
 
-# 👋 Hey, I'm Guru
+---
 
-Building cool stuff with code
+# 👋 Hey, I'm Gurusaran V R (Guru)
+
+**Full-Stack Hustler | Next.js | RAG | Building with Brains & Bytes**
 
 🎓 Master’s in Computer Science @ Binghamton University
-🤝 Open to collaborating on interesting web projects
 💻 Full-Stack & AI/ML Developer | Product Builder | Start-up Mindset
-🚀 Need help? Happy to discuss anything programming-related
-💡 Love solving problems with efficient and scalable solutions
-📫 Reach me: [Portfolio](https://gurusaranvr.vercel.app) • [LinkedIn](https://linkedin.com/in/gurusaranvr) • [Gmail](guruzaran@gmail.com)
+🚀 Currently building: Easy Subscriptions, AI Code Explainer, StudyMateLM
+📫 Reach me: [Portfolio](https://gurusaranvr.vercel.app) • [LinkedIn](https://linkedin.com/in/gurusaranvr) • [LeetCode](https://leetcode.com/yourhandle)
 
 ---
 
@@ -43,6 +43,15 @@ Building cool stuff with code
 
 ---
 
+## 🏷️ Badges
+
+* 🧠 AI | RAG | LangChain | FAISS
+* 💸 Stripe | Calendly | Payment Integrations
+* 🌐 TypeScript | Next.js | React | Tailwind
+* ⚙️ Docker | Azure | Firebase | GitHub Actions
+
+---
+
 ## 🔥 Featured Projects
 
 * 🔗 [Easy-Subscriptions](https://github.com/gurusaranvr/easy-subscriptions) — Stripe + Calendly-based subscription management system for services.
@@ -55,8 +64,8 @@ Building cool stuff with code
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurusaranvr&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusaranvr&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gurusaranvr&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusaranvr&layout=compact&theme=react" />
 </p>
 
 ---
@@ -64,3 +73,12 @@ Building cool stuff with code
 ## ✨ Fun Fact
 
 > **Recursing through reality, backtracking when necessary.**
+
+---
+
+<p align="center">
+  <i>Let's connect and build something impactful 🚀</i><br>
+  <a href="https://linkedin.com/in/gurusaranvr">LinkedIn</a> • 
+  <a href="https://gurusaranvr.vercel.app">Portfolio</a> • 
+  <a href="mailto:your@email.com">Email</a>
+</p>
