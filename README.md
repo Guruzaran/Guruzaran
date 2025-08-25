@@ -64,7 +64,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guruzaran&show_icons=true&theme=react" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruzaran&layout=compact&theme=react" />
 </p>
 
