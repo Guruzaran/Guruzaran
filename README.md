@@ -17,8 +17,8 @@
 - 📫 Reach me: [Portfolio](https://gurusaranvr.vercel.app) • [LinkedIn](https://linkedin.com/in/gurusaranvr) • [Gmail](mailto:guruzaran@gmail.com)
 
 </td>
-    <td>
-      <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="300" alt="Dark Themed Coding GIF">
+    <td valign="top">
+      <img src="https://media4.giphy.com/media/bLhsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Dark Coding Animation" />
     </td>
   </tr>
 </table>
