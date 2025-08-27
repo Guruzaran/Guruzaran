@@ -16,7 +16,7 @@
 - 💻 Full-Stack & AI/ML Developer \| Product Builder \| Start-up Mindset  
 - 🚀 Need help? Happy to discuss anything programming-related  
 - 💡 Love solving problems with efficient and scalable solutions  
-- 📫 Reach me: [Portfolio](https://gurusaranvr.vercel.app) • [LinkedIn](https://linkedin.com/in/gurusaranvr) • [Gmail](mailto:guruzaran@gmail.com)
+- 📫 Reach me: [Portfolio](https://gurusaran.vercel.app) • [LinkedIn](https://linkedin.com/in/gurusaranvr) • [Gmail](mailto:guruzaran@gmail.com)
 
 </td>
     <td valign="top">
