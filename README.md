@@ -58,6 +58,6 @@
 <p align="center">
   <i>Let's connect and build something impactful 🚀</i><br>
   <a href="https://linkedin.com/in/gurusaranvr">LinkedIn</a> • 
-  <a href="https://gurusaranvr.vercel.app">Portfolio</a> • 
+  <a href="https://gurusaran.vercel.app">Portfolio</a> • 
   <a href="mailto:guruzaran@email.com">Email</a>
 </p>
