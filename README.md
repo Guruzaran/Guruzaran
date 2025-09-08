@@ -45,10 +45,10 @@
 
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruzaran&layout=compact&theme=react" />
 </p> -->
 
